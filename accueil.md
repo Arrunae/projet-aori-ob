@@ -1,4 +1,4 @@
-# Acceuil
+# Accueil
 
 ## Structure du projet
 Cette page constitue une évaluation de la HE2B l'IESSID pour la première année en Bibliothécaire-documentaliste.
