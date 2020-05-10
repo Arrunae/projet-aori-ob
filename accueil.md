@@ -5,7 +5,7 @@ Cette page constitue une évaluation de la HE2B-IESSID pour la première année 
 Ce projet consiste à vous présenter un dossier documentaire pour vous renseigner sur la technologie de la 
 détection de mouvement. Celui-ci va être divisé en sous-dossier afin de trouver plus précisemment les documents pertinents à un domaine ou à un questionnement.
 
-```markdown
+
 - [https://arrunae.github.io/projet-aori-ob/definitions](Définitions) 
     Des termes ou des technologies utilisées
 - [https://arrunae.github.io/projet-aori-ob/utilisations](Utilisations)
@@ -18,8 +18,6 @@ détection de mouvement. Celui-ci va être divisé en sous-dossier afin de trouv
     Pour parler des détecteurs de mouvements intelligents
 - [https://arrunae.github.io/projet-aori-ob/erreurs](Erreurs ou bugs possibles) 
     Parce que créer une technologie c'est aussi faire des erreurs
-```
-
 
 
 
