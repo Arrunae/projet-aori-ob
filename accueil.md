@@ -1,22 +1,22 @@
 # Accueil
 
 ## Structure du projet
-Cette page constitue une évaluation de la HE2B l'IESSID pour la première année en Bibliothécaire-documentaliste.
+Cette page constitue une évaluation de la HE2B-IESSID pour la première année en Bibliothécaire-documentaliste.
 Ce projet consiste à vous présenter un dossier documentaire pour vous renseigner sur la technologie de la 
 détection de mouvement. Celui-ci va être divisé en sous-dossier afin de trouver plus précisemment les documents pertinents à un domaine ou à un questionnement.
 
 ```markdown
-- Définitions 
+- [https://arrunae.github.io/projet-aori-ob/definitions](Définitions) 
     Des termes ou des technologies utilisées
-- Utilisations 
+- [https://arrunae.github.io/projet-aori-ob/utilisations](Utilisations)
     Où retrouve-t-on cette technologie dans notre vie de tous les jours
-- Fonctionnement 
+- [https://arrunae.github.io/projet-aori-ob/fonctionnement](Fonctionnement) 
     Quelles sont les outils utilisées à la détection de mouvement
-- Infrarouges 
+- [https://arrunae.github.io/projet-aori-ob/infrarouges](Infrarouges) 
     Focus sur le fonctionnement des infrarouges
-- Algorythmes 
+- [https://arrunae.github.io/projet-aori-ob/algorythmes](Algorythmes) 
     Pour parler des détecteurs de mouvements intelligents
-- Erreurs ou bugs possible 
+- [https://arrunae.github.io/projet-aori-ob/erreurs](Erreurs ou bugs possibles) 
     Parce que créer une technologie c'est aussi faire des erreurs
 ```
 
