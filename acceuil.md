@@ -6,7 +6,7 @@ Ce projet consiste à vous présenter un dossier documentaire pour vous renseign
 détection de mouvement. Celui-ci va être divisé en sous-dossier afin de trouver plus précisemment les documents pertinents à un domaine ou à un questionnement.
 
 ```markdown
-- Définitions
+- [projet-aori-ob/definitions.md](Définitions)
 Des termes ou des technologies utilisées
 - Utilisations
 Où retrouve-t-on cette technologie dans notre vie de tous les jours
