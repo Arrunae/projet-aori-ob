@@ -1,6 +1,6 @@
-#Acceuil
+# Acceuil
 
-##Structure du projet
+## Structure du projet
 Cette page constitue une évaluation de la HE2B l'IESSID pour la première année en Bibliothécaire-documentaliste.
 Ce projet consiste à vous présenter un dossier documentaire pour vous renseigner sur la technologie de la 
 détection de mouvement. Celui-ci va être divisé en sous-dossier afin de trouver plus précisemment les documents pertinents à un domaine ou à un questionnement.
