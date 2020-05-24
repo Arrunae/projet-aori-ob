@@ -8,15 +8,15 @@ détection de mouvement. Celui-ci va être divisé en sous-dossier afin de trouv
 
 - [Définitions](https://arrunae.github.io/projet-aori-ob/definitions) 
     Des termes ou des technologies utilisées
-- [https://arrunae.github.io/projet-aori-ob/utilisations](Utilisations)
+- [Utilisations](https://arrunae.github.io/projet-aori-ob/utilisations)
     Où retrouve-t-on cette technologie dans notre vie de tous les jours
-- [https://arrunae.github.io/projet-aori-ob/fonctionnement](Fonctionnement) 
+- [Fonctionnement](https://arrunae.github.io/projet-aori-ob/fonctionnement) 
     Quelles sont les outils utilisées à la détection de mouvement
-- [https://arrunae.github.io/projet-aori-ob/infrarouges](Infrarouges) 
+- [Infrarouges](https://arrunae.github.io/projet-aori-ob/infrarouges) 
     Focus sur le fonctionnement des infrarouges
-- [https://arrunae.github.io/projet-aori-ob/algorythmes](Algorythmes) 
+- [Algorythmes](https://arrunae.github.io/projet-aori-ob/algorythmes) 
     Pour parler des détecteurs de mouvements intelligents
-- [https://arrunae.github.io/projet-aori-ob/erreurs](Erreurs ou bugs possibles) 
+- [Erreurs ou bugs récurrents](https://arrunae.github.io/projet-aori-ob/erreurs) 
     Parce que créer une technologie c'est aussi faire des erreurs
 
 
