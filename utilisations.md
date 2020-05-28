@@ -2,6 +2,7 @@
 
 ## Utilisations domestiques :
 ![Diverses utilisations](images/Utilisation.png)
+[Site energieplus-lesite.be de renseignement citoyens sur la consomation électrique](https://energieplus-lesite.be/techniques/eclairage10/commandes/gestion-en-fonction-de-la-presence/detecteurs-de-mouvement-et-de-presence-absence/)
 
 ## Utilisations courantes :
 
