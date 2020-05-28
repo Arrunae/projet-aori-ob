@@ -1,7 +1,7 @@
 # Utilisations différentes pour la détection de mouvements :
 
 ## Utilisations domestiques :
-![Diverses utilisations](images/utilisation.png)
+![Diverses utilisations](images/Utilisation.png)
 
 ## Utilisations courantes :
 
