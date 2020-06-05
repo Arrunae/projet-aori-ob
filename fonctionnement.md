@@ -16,3 +16,6 @@ CF. Algorythme
 Détecteur à pouvoir de coupure
 
 Détectable gradable
+
+# Détecter c'est bien, exploité le résultat, c'est mieux
+https://orbi.uliege.be/handle/2268/121415
