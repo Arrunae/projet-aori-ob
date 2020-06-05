@@ -11,3 +11,6 @@ Radard automobiles : [Caractérisation des cibles mobiles MTI et des compensatio
 ## Autres utilisations :
 Afin de suivre les mouvements de terrains et les prévenirs : [Interferomètrie SAR différentielle application à la détection et au suivi de mouvement de mouvement de terrain](https://www.worldcat.org/title/interferometrie-sar-differentielle-application-a-la-detection-et-au-suivi-de-mouvements-de-terrain/oclc/36434958&referer=brief_results)
 
+https://www.erudit.org/fr/revues/circuit/2012-v22-n1-circuit081/1008967ar/
+
+
