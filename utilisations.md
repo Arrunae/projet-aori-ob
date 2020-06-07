@@ -1,13 +1,13 @@
 # Utilisations différentes pour la détection de mouvements
 
 ## Utilisations civiles
-![Diverses utilisations](images/Utilisation.PNG)
+![Diverses utilisations](images/Utilisation.png)
 [Site energieplus-lesite.be de renseignement citoyens sur la consomation électrique](https://energieplus-lesite.be/techniques/eclairage10/commandes/gestion-en-fonction-de-la-presence/detecteurs-de-mouvement-et-de-presence-absence/)
 
 ![Vigilance au volant](images/ddmVoitureVigi.PNG)
 [ETCHEVERRY, Céline et LAYERLE, Jean-François. "HOMME/MACHINE ET PROCEDE DE CONTROLE DE FONCTIONS D’UN VEHICULE PAR DETECTION DE MOUVEMENT ET/OU D’EXPRESSION DU CONDUCTEUR." WO2012/049411 A1 : 19 avril 2012. Organisation monsiale de la Propriété intellectuelle, 2012.](https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=20160513&DB=EPODOC&locale=&CC=FR&NR=3028221A1)
 
-![Utilité du détecteur à éclairage et relié à un système d'alarme](images/ddmPoliceTypesdetect.PNG)
+![Utilité du détecteur à éclairage et relié à un système d'alarme](images/ddmPoliceTypedetect.PNG)
 [PINTSCH, Pascal. "Les détecteurs de mouvement pour l'extérieur." Police locale : Actualités. 22 janvier 2019 [consulté le 5 juin 2020].](https://www.police.be/5297/actualites/les-detecteurs-de-mouvement-pour-lexterieur)
 
 ## Utilisations professionnelles
