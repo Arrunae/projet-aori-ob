@@ -1,4 +1,4 @@
-# Utilisations différentes pour la détection de mouvements
+# Exemples d'utilisations pour la détection de mouvements
 
 ## Utilisations civiles
 ![Diverses utilisations](images/Utilisation.png)
