@@ -8,7 +8,7 @@
 
 ## Détecteur à double technologie
 ![Fonctionnement d'une double technologie de détection](images/ddmDoubleTech.PNG)
-ENERGIEPLUS. « Détecteurs de mouvement et de présence/absence [Éclairage] » In energieplus-lesite.be. 25 septembre 2007 [Consulté le 1 juin]. Disponible sur le web : <https://energieplus-lesite.be/techniques/eclairage10/commandes/gestion-en-fonction-de-la-presence/detecteurs-de-mouvement-et-de-presence-absence/>
+[ENERGIEPLUS. « Détecteurs de mouvement et de présence/absence [Éclairage] » In energieplus-lesite.be. 25 septembre 2007 [Consulté le 1 juin].](<https://energieplus-lesite.be/techniques/eclairage10/commandes/gestion-en-fonction-de-la-presence/detecteurs-de-mouvement-et-de-presence-absence/>)
 
 ## Détecteur vidéo
 [VAN DROOGENBROEK, Mark. Cours sur la détection de mouvement dans une vidéo : histoire d’une technologie et d’un brevet. Power-Point : INTELSIG, Montefiore Institute, Liège, Université de Liège : 15 mai 2012 [Consulté le 5 juin 2020].](https://orbi.uliege.be/bitstream/2268/121415/1/VanDroogenbroeck2012LaDetection.pdf)
