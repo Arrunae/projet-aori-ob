@@ -10,8 +10,8 @@ Pour affiner ses résultats et éviter ces erreurs, on peut combiner ces dernier
 (Le surlignage a été fait à postériori par moi-même)
 
 ## Détection des personnes et objets dans une vidéo
-![Limite technique vidéo-surveillance](images/Coursfct1.PNG)
-![Limite technique vidéo-surveillance](images/Coursfct2.PNG)
+![Limite technique vidéo-surveillance](images/ddmCoursfct1.PNG)
+![Limite technique vidéo-surveillance](images/ddmCoursfct2.PNG)
 [VAN DROOGENBROEK, Mark. Cours sur la détection de mouvement dans une vidéo : histoire d’une technologie et d’un brevet. Power-Point : INTELSIG, Montefiore Institute, Liège, Université de Liège : 15 mai 2012 [Consulté le 5 juin 2020].](https://orbi.uliege.be/bitstream/2268/121415/1/VanDroogenbroeck2012LaDetection.pdf)
 
 ## 
