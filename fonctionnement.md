@@ -1,4 +1,4 @@
-# Pour le fonctionnement global des différents types de détecteurs de mouvements
+# Concernant le fonctionnement global des différents types de détecteurs de mouvements
 
 ## Détecteur infrarouge (IR)
 ![Fonctionnement Infrarouge](images/IR1.PNG)
