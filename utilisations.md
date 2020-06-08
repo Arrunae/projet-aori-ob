@@ -23,6 +23,10 @@ Afin de suivre les mouvements de terrains et les prévenirs
 ![Limite technique à la vidéo surveillance par radars](images/ddmGlissementTerrain.PNG)
 [CARNEC, Claudie. "Interférométrie SAR différentielle application à la détection et au suivi de mouvement de mouvement de terrain". Thèse : Université Denis Diderot, Paris 7, 1996.](https://www.worldcat.org/title/interferometrie-sar-differentielle-application-a-la-detection-et-au-suivi-de-mouvements-de-terrain/oclc/36434958&referer=brief_results)
 
+Du divertissement à la recherche
+![Utilisation de la Motion Capture](images/MoCap7Util.PNG)
+[MASSE, Jean-Thomas. Capture de mouvements humains par capteurs RGB-D. Thèse : Robotique et informatique : Toulouse, Université Toulouse III Paul Sabatier : 2015. 121p.](https://tel.archives-ouvertes.fr/tel-01280163v2/document)
+
 ## Autres utilisations
 ![Instrument de musique par captation de mouvement](images/ddmMusique.PNG)
 ![L'instrument en question](images/ddmMusiqueimage.PNG)
