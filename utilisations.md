@@ -20,7 +20,8 @@ Radard automobiles
 [PEYREGNE, Rémi et FOURRIER-LAMER, Arlette. Caractérisation des cibles mobiles MTI et des compensation autofocus de synthèse SAR. Thèse : Électronique. Communication, micro-ondes et optiques : Limoges : 1997. 17p.](https://www.worldcat.org/title/caracterisation-des-cibles-mobiles-mti-et-compensation-autofocus-de-mouvements-dans-un-radar-de-cartographie-a-ouverture-de-synthese-sar/oclc/799085636&referer=brief_results)
 
 Afin de suivre les mouvements de terrains et les prévenirs 
-[CARNEC, Claudie. "Interferomètrie SAR différentielle application à la détection et au suivi de mouvement de mouvement de terrain". Thèse : Université Denis Diderot, Paris 7, 1996.](https://www.worldcat.org/title/interferometrie-sar-differentielle-application-a-la-detection-et-au-suivi-de-mouvements-de-terrain/oclc/36434958&referer=brief_results)
+![Limite technique à la vidéo surveillance par radars](images/ddmGlissementTerrain.PNG)
+[CARNEC, Claudie. "Interférométrie SAR différentielle application à la détection et au suivi de mouvement de mouvement de terrain". Thèse : Université Denis Diderot, Paris 7, 1996.](https://www.worldcat.org/title/interferometrie-sar-differentielle-application-a-la-detection-et-au-suivi-de-mouvements-de-terrain/oclc/36434958&referer=brief_results)
 
 ## Autres utilisations
 ![Instrument de musique par captation de mouvement](images/ddmMusique.PNG)
@@ -28,3 +29,4 @@ Afin de suivre les mouvements de terrains et les prévenirs
 [HÉON-MORISSETTE, Barah. "Rien dans les mains... Light Music de Thierry De Mey." [En ligne]. Circuit. 30 Avril 2012 [consulté le 07 juin 2020], vol. 22, n°1. p.41-50.](https://www.erudit.org/fr/revues/circuit/2012-v22-n1-circuit081/1008967ar/)
 
 
+Nota Bene : Les eventuels surlignages a été fait à postériori par moi-même. Ils ne sont pas dans le texte à l'origine. Pour une question de praticité, j'ai mis en avant les informations que j'ai estimé essentielles à cette page. N'hésitez pas à lire les sources pour vérifier et consolider vos connaissances sur le sujet.
