@@ -14,7 +14,7 @@
 ## Détecteur thermique
 ![Fonctionnement d'un détecteur thermique](images/ddmConrad.PNG)
 
-[CONRAD. Fonctionnement des capteurs de mouvement. 27 mais 2019 [Consulté le 1 juin 2020].](https://www.conrad.fr/articles/inspiration/fonctionnement-capteur-de-mouvement)
+- [CONRAD. Fonctionnement des capteurs de mouvement. 27 mais 2019 [Consulté le 1 juin 2020].](https://www.conrad.fr/articles/inspiration/fonctionnement-capteur-de-mouvement)
 
 ## Détecteur vidéo
 ![Principe de détection de mouvement en vidéo](images/ddmCoursfct3.PNG)
