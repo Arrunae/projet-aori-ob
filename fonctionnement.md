@@ -11,6 +11,11 @@
 
 - [ENERGIEPLUS. « Détecteurs de mouvement et de présence/absence [Éclairage] » In energieplus-lesite.be. 25 septembre 2007 [Consulté le 1 juin].](https://energieplus-lesite.be/techniques/eclairage10/commandes/gestion-en-fonction-de-la-presence/detecteurs-de-mouvement-et-de-presence-absence/)
 
+## Détecteur thermique
+![Fonctionnement d'un détecteur thermique](images/ddmConrad.PNG)
+
+[CONRAD. Fonctionnement des capteurs de mouvement. 27 mais 2019 [Consulté le 1 juin 2020].](https://www.conrad.fr/articles/inspiration/fonctionnement-capteur-de-mouvement)
+
 ## Détecteur vidéo
 ![Principe de détection de mouvement en vidéo](images/ddmCoursfct3.PNG)
 ![Principe de détection de mouvement en vidéo](images/ddmCoursfct4.PNG)
