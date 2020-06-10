@@ -23,3 +23,5 @@ Pour affiner ses résultats et éviter ces erreurs, on peut combiner ces dernier
 ![Limite technique à la vidéo surveillance par radars](images/ddmGlissementTerrain.PNG)
 
 - [CARNEC, Claudie. "Interférométrie SAR différentielle application à la détection et au suivi de mouvement de mouvement de terrain". Thèse : Université Denis Diderot, Paris 7, 1996.](https://www.worldcat.org/title/interferometrie-sar-differentielle-application-a-la-detection-et-au-suivi-de-mouvements-de-terrain/oclc/36434958&referer=brief_results)
+
+[RETOURNER A L'ACCUEIL](https://arrunae.github.io/projet-aori-ob/accueil)
