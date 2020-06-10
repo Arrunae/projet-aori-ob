@@ -6,7 +6,7 @@ https://www.conrad.fr/articles/inspiration/fonctionnement-capteur-de-mouvement
 
 
 - On peut aussi parler de "vision artificielle" ou "détection de présence" pour la détection de mouvement selon le degré de précision.
-![usage de "détection de présence"](images/Utilisations.png)
+![usage de "détection de présence"](images/Utilisation.png)
 [ENERGIEPLUS. « Détecteurs de mouvement et de présence/absence [Éclairage] » In energieplus-lesite.be. 25 septembre 2007 [Consulté le 1 juin].](https://energieplus-lesite.be/techniques/eclairage10/commandes/gestion-en-fonction-de-la-presence/detecteurs-de-mouvement-et-de-presence-absence/)
 
 
