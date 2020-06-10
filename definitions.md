@@ -2,7 +2,8 @@
 Voici des définitions utiles afin de comprendre les documents présentés dans les autres pages.
 
 ![Fonction du capteur de mouvement](images/ddmConradIntro.PNG)
-https://www.conrad.fr/articles/inspiration/fonctionnement-capteur-de-mouvement
+
+[CONRAD. Fonctionnement des capteurs de mouvement. 27 mais 2019 [Consulté le 1 juin 2020].](https://www.conrad.fr/articles/inspiration/fonctionnement-capteur-de-mouvement)
 
 
 - On peut aussi parler de "vision artificielle" ou "détection de présence" pour la détection de mouvement selon le degré de précision.
