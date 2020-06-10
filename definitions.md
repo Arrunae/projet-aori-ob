@@ -12,6 +12,7 @@ https://www.conrad.fr/articles/inspiration/fonctionnement-capteur-de-mouvement
 
 - La motion capture fait référence plutôt à de la détection de coprs humain.
 ![Usage des termes "Motion Capture"](images/MoCap7Util.PNG)
+
 [MASSE, Jean-Thomas. Capture de mouvements humains par capteurs RGB-D. Thèse : Robotique et informatique : Toulouse, Université Toulouse III Paul Sabatier : 2015. 121p.](https://tel.archives-ouvertes.fr/tel-01280163v2/document)
 
 
