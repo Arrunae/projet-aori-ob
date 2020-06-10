@@ -50,3 +50,6 @@ Détecteur de chaleur (PIR)
 ![Comment exploiter la détection de mouvement par vidéo](images/ddmCoursfct2.PNG)
 
 - [VAN DROOGENBROEK, Mark. Cours sur la détection de mouvement dans une vidéo : histoire d’une technologie et d’un brevet. Power-Point : INTELSIG, Montefiore Institute, Liège, Université de Liège : 15 mai 2012 [Consulté le 5 juin 2020].]( https://orbi.uliege.be/bitstream/2268/121415/1/VanDroogenbroeck2012LaDetection.pdf)
+
+
+[RETOURNER A L'ACCUEIL](https://arrunae.github.io/projet-aori-ob/accueil)
