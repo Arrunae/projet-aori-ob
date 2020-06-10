@@ -20,5 +20,3 @@ Voici des définitions utiles afin de comprendre les documents présentés dans 
 Nota Bene : Les eventuels surlignages a été fait à postériori par moi-même. Ils ne sont pas dans le texte à l'origine. Pour une question de praticité, j'ai mis en avant les informations que j'ai estimé essentielles à cette page. N'hésitez pas à lire les sources pour vérifier et consolider vos connaissances sur le sujet.
 
 [RETOURNER A L'ACCUEIL](https://arrunae.github.io/projet-aori-ob/accueil)
-
-[RETOURNER A L'ACCUEIL](https://arrunae.github.io/projet-aori-ob/accueil)
