@@ -12,13 +12,5 @@ détection de mouvements. Celui-ci va être divisé en sous-dossiers afin de tro
     Où retrouve-t-on cette technologie dans notre vie de tous les jours
 - [Fonctionnement :](https://arrunae.github.io/projet-aori-ob/fonctionnement) 
     Quelles sont les outils utilisées à la détection de mouvement
-- [Infrarouges :](https://arrunae.github.io/projet-aori-ob/infrarouges) 
-    Focus sur le fonctionnement des infrarouges
-- [Algorythmes :](https://arrunae.github.io/projet-aori-ob/algorythmes) 
-    Pour parler des détecteurs de mouvements intelligents
 - [Erreurs ou bugs récurrents :](https://arrunae.github.io/projet-aori-ob/erreurs) 
     Parce que créer une technologie c'est aussi faire des erreurs
-
-
-
-[index.md](index)
