@@ -3,8 +3,16 @@
 ## Détecteur infrarouge (IR)
 ![Fonctionnement Infrarouge](images/IR1.PNG)
 
+- [ENERGIEPLUS. « Détecteurs de mouvement et de présence/absence [Éclairage] » In energieplus-lesite.be. 25 septembre 2007 [Consulté le 1 juin].](https://energieplus-lesite.be/techniques/eclairage10/commandes/gestion-en-fonction-de-la-presence/detecteurs-de-mouvement-et-de-presence-absence/)
+
+![Détecteur de fumée, concept de base](images/ddmCPSorcier.PNG)
+
+- [C’EST PAS SORCIER. « Comment fonctionne un détecteur de fumée ? – C’est Pas Sorcier ». In Google. Youtube : publiée le 9 juin 2018 [Consulté le 10 juin 2020]. 2min 22sec.](https://www.youtube.com/watch?v=EzWPsc9_rKc)
+
 ## Détecteur ultrasoniques (US)
 ![Fonctionnement d'un détecteur à ultrason](images/US1.PNG)
+
+- [ENERGIEPLUS. « Détecteurs de mouvement et de présence/absence [Éclairage] » In energieplus-lesite.be. 25 septembre 2007 [Consulté le 1 juin].](https://energieplus-lesite.be/techniques/eclairage10/commandes/gestion-en-fonction-de-la-presence/detecteurs-de-mouvement-et-de-presence-absence/)
 
 ## Détecteur à double technologie
 ![Fonctionnement d'une double technologie de détection](images/ddmDoubleTech.PNG)
